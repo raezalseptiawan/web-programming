@@ -1,2 +1,3 @@
 Web Programming 
 - Belajar tentang web program menggunakan layanan github
+- Mengembangkan web menjadi lebih baik lagi
