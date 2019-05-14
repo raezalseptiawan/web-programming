@@ -3,4 +3,5 @@ RENCANA KONTEN WEB
 - JAVASCRIPT
   * ES6 (syntax javascript yg baru)
   * Framework javascript
+- Struktur data dasar
 - PHP FRAMEWORK
