@@ -3,7 +3,10 @@ RENCANA KONTEN WEB
 - JAVASCRIPT
   * ES6 (syntax javascript yg baru)
   * Framework javascript
-     ^ ANGULAR
-     ^ REACT
 - PHP FRAMEWORK
    ^ LARAVEL
+    ^ VUE
+    ^ REACT
+- Struktur data dasar
+- PHP FRAMEWORK
+   ^ Laravel
